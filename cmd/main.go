@@ -1,8 +1,6 @@
 package main
 
 import (
-	// i have my main package in cmd folder
-	// import package from my library folder one step up
 	"fmt"
 	"os"
 
